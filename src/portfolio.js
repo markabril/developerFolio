@@ -178,7 +178,7 @@ const workExperiences = {
     {
       role: "Junior Software Developer",
       company: "Information Managers Inc.",
-      companylogo: require("./assets/images/InfoManLogo.jpg"),
+      companylogo: require("./assets/images/INFOMANLogo.jpg"),
       date: "June 2016 – June 2018",
       desc: "Worked as a Junior Software Developer for a software development company. Developed and maintained web applications using OpenEdge Technology(Progress 4GL)."
     }
@@ -256,7 +256,7 @@ const achievementSection = {
       title: "Training Certifications",
       subtitle:
         "Completed several trainings and certifications related to programming, web development, and software development.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/TESDALogo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
