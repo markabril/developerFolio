@@ -88,6 +88,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
+    {
+      skillName: "git-versioning",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -159,10 +163,9 @@ const workExperiences = {
       company: "EGC Extreme Unreal Technology Inc",
       companylogo: require("./assets/images/EGCLogo.jpg"),
       date: "May 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Started as a Front-End Developer for a game development company. Currently working on developing and maintaining the company's website and web applications.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed and maintained the company's website and web applications using Vue, Node.js, Blazor and other technologies.",
       ]
     },
     {
@@ -170,14 +173,14 @@ const workExperiences = {
       company: "Cherished Moments",
       companylogo: require("./assets/images/CMSLogo.jpg"),
       date: "September 2018 – May 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Taught Computer and Information and Communications Technology (ICT) subjects to students in the senior high school level."
     },
     {
       role: "Junior Software Developer",
       company: "Information Managers Inc.",
       companylogo: require("./assets/images/InfoManLogo.jpg"),
       date: "June 2016 – June 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Worked as a Junior Software Developer for a software development company. Developed and maintained web applications using OpenEdge Technology(Progress 4GL)."
     }
   ]
 };
@@ -199,7 +202,7 @@ const bigProjects = {
     {
       image: require("./assets/images/WalkLogo.avif"),
       projectName: "Walk Online Mobile",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Infomative website for a mobile game that displays the latest news and updates about the game.",
       footerLink: [
         {
           name: "Visit Website",
@@ -211,7 +214,7 @@ const bigProjects = {
     {
       image: require("./assets/images/EGCLogo.png"),
       projectName: "EGC Extreme Unreal Technology Inc",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Company website for a game development company that showcases their products and services.",
       footerLink: [
         {
           name: "Visit Website",
