@@ -202,7 +202,7 @@ const bigProjects = {
     {
       image: require("./assets/images/WalkLogo.avif"),
       projectName: "Walk Online Mobile",
-      projectDesc: "Infomative website for a mobile game that displays the latest news and updates about the game.",
+      projectDesc: "Infomative website for Walk Online Mobile that displays the latest news and updates about the game.",
       footerLink: [
         {
           name: "Visit Website",
