@@ -91,7 +91,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "git-versioning",
       fontAwesomeClassname: "fab fa-git-alt"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -108,7 +108,7 @@ const educationInfo = {
       duration: "June 2012 - April 2016",
       desc: "Participated in College's Programming Group and Competeted in several programming competitions",
       descBullets: [
-        "Won 1st Place in University of Luzon Programming Competition 2015",
+        "Won 1st Place in University of Luzon Programming Competition 2015"
       ]
     },
     {
@@ -118,9 +118,9 @@ const educationInfo = {
       duration: "June 2010 - April 2012",
       desc: "",
       descBullets: [
-        "Finished 2-year Computer Based Design and Technology Course with 1st Honors",
+        "Finished 2-year Computer Based Design and Technology Course with 1st Honors"
       ]
-    },
+    }
     // {
     //   schoolName: "Stanford University",
     //   logo: require("./assets/images/stanfordLogo.png"),
@@ -165,7 +165,7 @@ const workExperiences = {
       date: "May 2022 – Present",
       desc: "Started as a Front-End Developer for a game development company. Currently working on developing and maintaining the company's website and web applications.",
       descBullets: [
-        "Developed and maintained the company's website and web applications using Vue, Node.js, Blazor and other technologies.",
+        "Developed and maintained the company's website and web applications using Vue, Node.js, Blazor and other technologies."
       ]
     },
     {
@@ -202,7 +202,8 @@ const bigProjects = {
     {
       image: require("./assets/images/WalkLogo.avif"),
       projectName: "Walk Online Mobile",
-      projectDesc: "Infomative website for Walk Online Mobile that displays the latest news and updates about the game.",
+      projectDesc:
+        "Infomative website for Walk Online Mobile that displays the latest news and updates about the game.",
       footerLink: [
         {
           name: "Visit Website",
@@ -214,7 +215,8 @@ const bigProjects = {
     {
       image: require("./assets/images/EGCLogo.png"),
       projectName: "EGC Extreme Unreal Technology Inc",
-      projectDesc: "Company website for a game development company that showcases their products and services.",
+      projectDesc:
+        "Company website for a game development company that showcases their products and services.",
       footerLink: [
         {
           name: "Visit Website",
@@ -262,7 +264,7 @@ const achievementSection = {
         {
           name: "Certifications",
           url: "https://drive.google.com/drive/folders/1ewgcE8feIfahLg1x9Pbp0Lch-QHghsH7?usp=sharing"
-        },
+        }
         // {
         //   name: "Award Letter",
         //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
@@ -272,7 +274,7 @@ const achievementSection = {
         //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         // }
       ]
-    },
+    }
     // {
     //   title: "Google Assistant Action",
     //   subtitle:
