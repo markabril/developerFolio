@@ -178,7 +178,7 @@ const workExperiences = {
     {
       role: "Junior Software Developer",
       company: "Information Managers Inc.",
-      companylogo: require("./assets/images/INFOMANLogo1.jpg"),
+      companylogo: require("./assets/images/INFOMANLogo.jpg"),
       date: "June 2016 – June 2018",
       desc: "Worked as a Junior Software Developer for a software development company. Developed and maintained web applications using OpenEdge Technology(Progress 4GL)."
     }
