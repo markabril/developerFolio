@@ -178,7 +178,7 @@ const workExperiences = {
     {
       role: "Junior Software Developer",
       company: "Information Managers Inc.",
-      companylogo: require("./assets/images/INFOMANLogo.jpg"),
+      companylogo: require("./assets/images/INFOMANLogo1.jpg"),
       date: "June 2016 – June 2018",
       desc: "Worked as a Junior Software Developer for a software development company. Developed and maintained web applications using OpenEdge Technology(Progress 4GL)."
     }
@@ -261,7 +261,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certifications",
-          url: "https://drive.google.com/drive/folders/1ewgcE8feIfahLg1x9Pbp0Lch-QHghsH7?usp=sharing"
+          url: "https://drive.google.com/drive/folders/1GiK8jyGhWO7Rjpog8hHhLx4Smtvqfyss?usp=drive_link"
         },
         // {
         //   name: "Award Letter",
